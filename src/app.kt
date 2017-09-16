@@ -4,9 +4,9 @@
 
 fun main(args: Array<String>) {
 
-    println("Name   :   Jyoti Rani")
-    println("Place  :   Pune")
-    println("Age    :   25")
+    println("Name   :   XYZ ABC")
+    println("Place  :   PQR")
+    println("Age    :   99")
     println("Gender :   Female")
 
 }
